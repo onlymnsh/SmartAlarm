@@ -2,5 +2,6 @@
     <string name="app_name">SmartAlarm</string>
 
     <string name="hello_world">Hello world!</string>
+    <string name="welcome">welcome to Github</string>
     <string name="action_settings">Settings</string>
 </resources>
